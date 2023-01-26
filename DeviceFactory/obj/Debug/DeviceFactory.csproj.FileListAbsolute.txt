@@ -9,3 +9,13 @@ C:\Users\feday\source\repos\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.
 C:\Users\feday\source\repos\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.csproj.CoreCompileInputs.cache
 C:\Users\feday\source\repos\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.exe
 C:\Users\feday\source\repos\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.pdb
+C:\AnnaC#\DeviceFactory\DeviceFactory\bin\Debug\DeviceFactory.exe.config
+C:\AnnaC#\DeviceFactory\DeviceFactory\bin\Debug\DeviceFactory.exe
+C:\AnnaC#\DeviceFactory\DeviceFactory\bin\Debug\DeviceFactory.pdb
+C:\AnnaC#\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.csproj.AssemblyReference.cache
+C:\AnnaC#\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.Form1.resources
+C:\AnnaC#\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.Properties.Resources.resources
+C:\AnnaC#\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.csproj.GenerateResource.cache
+C:\AnnaC#\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.csproj.CoreCompileInputs.cache
+C:\AnnaC#\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.exe
+C:\AnnaC#\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.pdb

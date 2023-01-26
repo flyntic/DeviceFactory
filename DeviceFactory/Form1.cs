@@ -34,9 +34,14 @@ namespace DeviceFactory
                     var phone = worker.MakeDevice(builder, name_TextBox.Text, screen_TextBox.Text, model_TextBox.Text, body_TextBox.Text);
                     UpdateLabel(phone, label1);
                     break;
-             
+                case "Smart":
+                    builder = new SmartBuilder(new Smart());
+                    var smart = worker.MakeDevice(builder, name_TextBox.Text, screen_TextBox.Text, model_TextBox.Text, body_TextBox.Text);
+                    UpdateLabel(smart, label1);
+                    break;
+
             }
-  
+
         }
 
     

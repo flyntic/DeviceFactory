@@ -93,7 +93,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(98, 23);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 16);
+            this.label3.Size = new System.Drawing.Size(45, 17);
             this.label3.TabIndex = 8;
             this.label3.Text = "Name";
             // 
@@ -102,7 +102,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(234, 23);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(45, 16);
+            this.label4.Size = new System.Drawing.Size(46, 17);
             this.label4.TabIndex = 9;
             this.label4.Text = "Model";
             // 
@@ -111,7 +111,7 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(364, 23);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(39, 16);
+            this.label5.Size = new System.Drawing.Size(40, 17);
             this.label5.TabIndex = 10;
             this.label5.Text = "Body";
             // 
@@ -120,7 +120,7 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(484, 23);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(50, 16);
+            this.label6.Size = new System.Drawing.Size(53, 17);
             this.label6.TabIndex = 11;
             this.label6.Text = "Screen";
             // 
@@ -130,7 +130,8 @@
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "Pad",
-            "Phone"});
+            "Phone",
+            "Smart"});
             this.comboBox1.Location = new System.Drawing.Point(594, 42);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 24);
